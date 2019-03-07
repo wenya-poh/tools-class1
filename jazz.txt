@@ -1,3 +1,7 @@
 Hello world
 The quick brown fox jumps over the lazy dog
-Jazz is great music, keep playing
+Jazz is great music, keep playing.
+Roses are Red
+Violets are Blue
+I'm in VIM
+You are too
